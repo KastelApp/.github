@@ -7,7 +7,7 @@
   </p>
 </div>
 
-Kastel Is a Chatting App like <a href="https://discord.com">Discord</a> & <a href="https://guilded.gg">Guilded</a>, Though its Open Sourced. With Encrypted Chat and No selling of User Data.
+Kastel Is a Chatting App like <a href="https://discord.com">Discord</a> & <a href="https://guilded.gg">Guilded</a>, Though its Open Sourced. With Encrypted Chat.
 
 ## Kastel Roadmap
 
@@ -21,6 +21,7 @@ Kastel Is a Chatting App like <a href="https://discord.com">Discord</a> & <a hre
   - Express server
   - Database for storing file ids
   - Simple Routes, Get file, Delete file ETC
+  - [ ] Start on WS Server
  
 
 
