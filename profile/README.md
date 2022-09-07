@@ -13,7 +13,7 @@ Kastel Is a Chatting App like <a href="https://discord.com">Discord</a> & <a hre
 
 - [x] Start on Backend
   - Initial files, Route handler, few routes, example data ETC
-- [ ] Start on Frontend
+- [X] Start on Frontend
   - Create Nextjs app
   - Pick out Component LIB
   - Pick out a Style
