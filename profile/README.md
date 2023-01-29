@@ -1,28 +1,36 @@
-<div>
-<div align="center">
-  <br />
-  <p>
-    <!-- <a href="https://kastelapp.org"><h1>Kastel</h1></a> -->
-    <h1>Kastel</h1>
-  </p>
-</div>
+# Kastel
 
-Kastel Is a Chatting App like <a href="https://discord.com">Discord</a> & <a href="https://guilded.gg">Guilded</a>, Though its Open Sourced. With Encrypted Chat.
+Kastel is a chat application that aims to provide an alternative to popular platforms like Discord and Guilded. Our focus is on providing encrypted chat for secure communication. 
 
-## Kastel Roadmap
+## Key Features 
 
-- [x] Start on Backend
-  - Initial files, Route handler, few routes, example data ETC
-- [X] Start on Frontend
-  - Create Nextjs app
-  - Pick out Component LIB
-  - Pick out a Style
-- [ ] Start on CDN
-  - Express server
-  - Database for storing file ids
-  - Simple Routes, Get file, Delete file ETC
-  - [ ] Start on WS Server
- 
+- Open-source 
+- Encrypted chat for secure communication 
+- A modern, user-friendly interface 
 
+## Development Roadmap 
 
-</div>
+Our development is divided into a few main areas: Backend, Frontend, CDN and Websocket. Here's a brief overview of what we're working on: 
+
+- Backend 
+  - [x] Initial setup of files and routes 
+  - [x] User Auth
+  - [ ] Typescript rewrite
+
+- Frontend 
+  - [x] Development of Next.js application 
+  - [x] Integration of components and styling 
+
+- CDN 
+  - [x] Development of Express server 
+  - [ ] Database for storing file IDs 
+  - [ ] Simple file management routes (get, delete, etc.) 
+  
+ - Websocket
+  - [x] Base Websocket
+  - [ ] Auth
+  - [ ] Events like MessageCreate ETC
+  
+## Get Involved 
+
+We welcome anyone who's interested in contributing to Kastel! Whether you're a developer, designer, or just passionate about the project, there's always something you can do to help. Check out our GitHub repository for more information on how to get started. 
