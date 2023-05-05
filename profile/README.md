@@ -4,6 +4,6 @@
 
 # Who Are we?
 
-🚀 Created by a small team of committed developers, Kastel is a platform for chatting that is currently being developed. Our main aim is to establish a community-led platform that serves the preferences of those individuals who adore chatting, connecting, and gaming. 🎮 Unlike other chat platforms that veer away from gaming, we view it as a vital aspect of the online encounter. For those looking to bond with fellow gamers and talk about their preferred games, Kastel is the ultimate platform being developed.
+🚀 Created by a small team of committed developers, Kastel is a platform for chatting that is currently being developed. Our main goal is to establish a community-led platform that serves the preferences of those individuals who adore chatting, connecting, and gaming. 🎮 Unlike other chat platforms that veer away from gaming, we view it as a vital aspect of the online encounter. For those looking to bond with fellow gamers and talk about their preferred games, Kastel is the ultimate platform being developed.
 
 🌟 Our goal is to establish a versatile platform that accommodates users from various interests such as 🎵 music, ⚽ sports, and various other categories. Kastel's mission revolves around providing a secure, private environment that emphasizes community involvement. As a result of these efforts, we hope one day Kastel will be the preferred chatting and socializing spot for many. 🤝 Join us on this exciting journey as we bring people together and create a more customizable online experience!
