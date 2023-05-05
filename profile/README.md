@@ -1,6 +1,6 @@
 # Hey👋, we're Kastel
 
-![Kastel saying I'm feeling really good today](/images/feelinggood.jpg)
+![Kastel saying I'm feeling really good today](https://raw.githubusercontent.com/Kastelll/.github/master/images/feelinggood.jpg)
 
 # Who Are we?
 
