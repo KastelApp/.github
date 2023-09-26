@@ -4,64 +4,30 @@
 
 # Who Are we?
 
-🚀 Created by a small team of committed developers, Kastel is a platform for chatting that is currently being developed. Our main goal is to establish a community-led platform that serves the preferences of those individuals who adore chatting, connecting, and gaming. 🎮 Unlike other chat platforms that veer away from gaming, we view it as a vital aspect of the online encounter. For those looking to bond with fellow gamers and talk about their preferred games, Kastel is the ultimate platform being developed.
+Kastel is our open-sourced chat platform, designed to foster community engagement and meaningful connections. Much like Discord, Guilded, and Revolt, we're here to empower our community by actively seeking and incorporating your valuable feedback.
 
-🌟 Our goal is to establish a versatile platform that accommodates users from various interests such as 🎵 music, ⚽ sports, and various other categories. Kastel's mission revolves around providing a secure, private environment that emphasizes community involvement. As a result of these efforts, we hope one day Kastel will be the preferred chatting and socializing spot for many. 🤝 Join us on this exciting journey as we bring people together and create a more customizable online experience!
+Our commitment? We're in it for the long run. Kastel plans on remaining open-sourced, with plans to introduce optional end-to-end (E2E) encryption for both direct and group messages. Just like Discord, we'll also welcome bots onto this platform.
 
-# Projects
+We prioritize your experience, which is why you won't find intrusive ads here. Instead, we aim to introduce subscriptions and donation options to sustain our platform.
 
-<details>
-<summary>Kastel itself is a project, though of course we have sub projects, Stuff like the API, WebSocket, Frontend etc etc. Below is just some links and info relating to them!</summary>
+Behind the scenes, our tech stack is robust. We utilize Typescript for the backend, including WebSocket, Content Delivery Network (CDN), and APIs, with Bun as our runtime. On the frontend, we use Svelte with Tailwind CSS for our styling.
 
-- [ ] API
-  - **Description**: The API is the main backend for Kastel, it handles all the requests from the frontend and sends them to the database, it also handles authentication and other stuff like that.
-  - **Status**: In Development
-  - **Links**: [Repository](https://github.com/Kastelll/Backend)
-  - [ ] Documentation Complete
-  - [ ] Tested Thoroughly
-  - [ ] Production Ready
-
-- [ ] WebSocket
-  - **Description**: The WebSocket is the main way the frontend communicates with the backend, it handles all the realtime stuff like receiving messages and stuff like that.
-  - **Status**: In Development
-  - **Links**: [Repository](https://github.com/Kastelll/WebSocket)
-  - [ ] Documentation Complete
-  - [ ] Tested Thoroughly
-  - [ ] Production Ready
-  
-- [ ] Frontend
-  - **Description**: The Frontend is the main way users interact with Kastel, it handles all the UI and stuff like that.
-  - **Status**: In Development
-  - **Links**: [Repository](https://github.com/Kastelll/Frontend)
-  - [ ] Documentation Complete
-  - [ ] Tested Thoroughly
-  - [ ] Production Ready
-
-- [ ] Documentation
-  - **Description**: The Documention page is where we will document everything about Kastel, from how to use the API to how to use the WebSocket.
-  - **Status**: In Development (/ somewhat in production)
-  - **Links**: [Repository](https://github.com/Kastelll/Docs)
-  - [x] Documentation Complete (N/A)
-  - [ ] Tested Thoroughly
-  - [ ] Production Ready
-
-- [ ] CDN
-  - **Description**: The CDN is where we will store all the images and stuff like that for Kastel.
-  - **Status**: In Development
-  - **Links**: [Repository](https://github.com/Kastelll/CDN)
-  - [ ] Documentation Complete
-  - [ ] Tested Thoroughly
-  - [ ] Production Ready
-
-- [ ] Status Page
-  - **Description**: The Status Page is where we will show the status of all the Kastel services, like the API, WebSocket, Frontend etc etc.
-  - **Status**: In Development
-  - **Links**: [Repository](https://github.com/Kastelll/Status-Monitor)
-  - [ ] Documentation Complete
-  - [ ] Tested Thoroughly
-  - [ ] Production Ready
-</details>
+At present, our dedicated team consists of three passionate individuals. Kastel is not just an app; it's a community-driven endeavor. Join us and be part of something special.
 
 # Contributing
 
-We would **love** you to contribute to Kastel, we are always looking for people to help us out whether it's with finding bugs, adding new features or even just suggesting new ideas! Just head over to [Discussions](https://github.com/orgs/Kastelll/discussions) and start a discussion, we will get back to you as soon as possible!
+We believe that Kastel's growth and success are a collective effort, and we welcome contributions from the community. Here's how you can get involved and make a difference:
+
+1. **Code Contributions**: If you're a developer and want to contribute to the Kastel project, we encourage you to fork our repository, make your improvements, and submit a pull request. Make sure to follow our Code of conduct.
+
+1. **Bug Reports and Issue Tracking**: Found a bug or an issue while using Kastel? Please report it to our [Github discussions](https://github.com/orgs/KastelApp/discussions/categories/bugs). Include the error, steps to reproduce, and a brief explanation of what to expect and what actually happens. This helps our team address and resolve issues more effectively.
+
+1. **New Features & Improvements**: Thought of a new idea? Or an amazing new feature to improve Kastel? Share it with us! Open feature requests on our Github discussions ([Feedback](https://github.com/orgs/KastelApp/discussions/categories/feedback)) ([Suggestions](https://github.com/orgs/KastelApp/discussions/categories/suggestions)) and we'll consider your suggestions as we continue to improve the platform.
+
+1. **Documentation**: Clear and comprehensive documentation is crucial for our contributors & Developers. If you have expertise in this area, consider contributing to our [documentation](https://github.com/KastelApp/Docs/tree/development/content) to make Kastel more accessible to everyone.
+
+1. **Community Feedback**: We highly value the feedback and insights of our users. Check out our Github discussions to share your thoughts, suggestions, and experiences with Kastel. Your input helps shape the direction of our platform.
+
+1. **Spread the Word**: If you appreciate Kastel and its mission, help us reach a wider audience. Share it around with friends or family! This will help Kastel grow into an even better platform.
+
+We want Kastel to be a supportive and inclusive app, where Feedback and contributions are recognized. Together, we can make Kastel an even better platform for our community.
